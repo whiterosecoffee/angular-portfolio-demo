@@ -3,4 +3,5 @@ Basic angular implemenation of WP portfolio example.
 
 ###Includes
 - Basic Routes
-- Multiple view
+- Multiple views
+- Json data integration
